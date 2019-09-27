@@ -17,9 +17,12 @@ and analysis. Cheers\!
 
 ## Installation
 
-This package is currently mashing, and therefore not on CRAN yet. We are
+This package is currently mashing, and therefore not complete yet. We are
 still adding functions and updating documentation, so we don’t recommend
 drinking just yet.
+
+## Presentations
+Follow this [link](https://speakerdeck.com/javirudolph/analyzing-beer) for our presentation at the FBG2019, or this [one](https://speakerdeck.com/javirudolph/data-science-in-beer) for the lightning talk from ResBaz2019
 
 However, follow us on [Twitter](https://twitter.com/CraftBeerSci) and we
 will keep you in the loop\!
